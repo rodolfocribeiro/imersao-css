@@ -1,0 +1,29 @@
+body {
+    background-image: url(https://thumbs.dreamstime.com/b/abstract-white-wood-texture-background-natural-old-pattern-grayscale-surface-background-abstract-white-wood-texture-105837104.jpg);
+    font-family: tahoma;
+  }
+  .menu {
+    background-color: none;
+  }
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  .menu li{
+    list-style: none;
+  }
+  a {
+    text-decoration: none;
+    color: #383838;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .site-title {
+   color: #383838;
+   text-align: center; 
+  }
+  .site-subtitle {
+   color: #383838;
+   text-align: center;
+  }
